@@ -1,4 +1,4 @@
-# 100daysOfReact
+# 100 days of React
 
 ## Challenge #100DaysOfCode
 
