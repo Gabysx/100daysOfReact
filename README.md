@@ -4,54 +4,54 @@
 
 ### Roadmap by @kamranahmedse
 
-1 - Create React App
-2 - JSX
-3 - Components: functional components
-4 - Components: class components
-5 - Props vs state
-6 - Conditional Rendering
-7 - Component life cycle
-8 - Lists and keys
-9 - Composition vs Inheritance
-10 - Basic Hooks: useState and useEffect
+1 - Create React App <br/>
+2 - JSX<br/>
+3 - Components: functional components<br/>
+4 - Components: class components<br/>
+5 - Props vs state<br/>
+6 - Conditional Rendering<br/>
+7 - Component life cycle<br/>
+8 - Lists and keys<br/>
+9 - Composition vs Inheritance<br/>
+10 - Basic Hooks: useState and useEffect<br/>
 
-11 - Hooks: useCallback
-12 - Hooks: useRef
-13 - Hooks: useMemo
-14 - Hooks: useReducer
-15 - Hooks: useContext
-16 - Hooks: writing your own hooks
-17 - High order components
-18 - Portals
-19 - Error Boundaries
-20 - Fiber Architeture
+11 - Hooks: useCallback<br/>
+12 - Hooks: useRef<br/>
+13 - Hooks: useMemo<br/>
+14 - Hooks: useReducer<br/>
+15 - Hooks: useContext<br/>
+16 - Hooks: writing your own hooks<br/>
+17 - High order components<br/>
+18 - Portals<br/>
+19 - Error Boundaries<br/>
+20 - Fiber Architeture<br/>
 
-21 - Routers: React Router
-22 - Routers: Reach Router
-23 - Server-side rendering (SSR):next.js
-24 - Static Site Generation (SSG): next.js
-25 - Static Site Generation - SSG: gatsby
-26 - React-query
-27 - API calls: Apollo (GraphQL)
-28 - API calls: Relay Modern (GraphQL)
-29 - API calls: Axios
-30 - API calls: Unfetch
+21 - Routers: React Router<br/>
+22 - Routers: Reach Router<br/>
+23 - Server-side rendering (SSR):next.js<br/>
+24 - Static Site Generation (SSG): next.js<br/>
+25 - Static Site Generation - SSG: gatsby<br/>
+26 - React-query<br/>
+27 - API calls: Apollo (GraphQL)<br/>
+28 - API calls: Relay Modern (GraphQL)<br/>
+29 - API calls: Axios<br/>
+30 - API calls: Unfetch<br/>
 
-31 - API calls: Superagent
-32 - Use-http
-33 - Forms: React Hook Forms
-34 - Formik
-35 - Final form
-36 - Testing: Jest
-37 - Testing: React Testing Library
-38 - Testing: Cyress
-39 - State management: context/ state
-40 - State management: redux
+31 - API calls: Superagent<br/>
+32 - Use-http<br/>
+33 - Forms: React Hook Forms<br/>
+34 - Formik<br/>
+35 - Final form<br/>
+36 - Testing: Jest<br/>
+37 - Testing: React Testing Library<br/>
+38 - Testing: Cyress<br/>
+39 - State management: context/ state<br/>
+40 - State management: redux<br/>
 
-41 - State management: MobX
-42 - Styling: Chakra UI
-43 - Styling: Material UI
-44 - Styling: Ant Design
-45 - Styled Components
-46 - Emotion
-47 - React Native fundamentals
+41 - State management: MobX<br/>
+42 - Styling: Chakra UI<br/>
+43 - Styling: Material UI<br/>
+44 - Styling: Ant Design<br/>
+45 - Styled Components<br/>
+46 - Emotion<br/>
+47 - React Native fundamentals<br/>
