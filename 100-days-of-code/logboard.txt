@@ -1,0 +1,15 @@
+day 1:
+have already installed node.js
+npx create-react-app 100-days-of-code ()
+cd 100-days-of-code
+npm run build
+npm run test
+npm start
+
+reference articles: 
+https://pt-br.reactjs.org/docs/create-a-new-react-app.html
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-react-project-with-create-react-app-pt
+
+
+
+
